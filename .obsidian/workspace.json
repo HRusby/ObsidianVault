@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "56d40fafcd7160b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e455d9a41c666a75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9d1f0b9275645c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neovim/Plugins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9945602ef2b6b69a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neovim/Keybindings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f132ea89c00f446e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neovim/Plugins.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2839d09c19bdc577",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef0ae3598bbdfc81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8da8494079c4033",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d376c8ac877ecdd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8115e0f3c3049c0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99495ceae3e2987f",
+    "type": "split",
+    "children": [
+      {
+        "id": "95d6023206c6a5db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8e00d4f21f5f729",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Neovim/Plugins.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d273c598ecfc0c44",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Neovim/Plugins.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f3829a5475563d80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cba488e0c63c09e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Neovim/Plugins.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f132ea89c00f446e",
+  "lastOpenFiles": [
+    "Neovim/Keybindings.md",
+    "Linux/Keybindings.md",
+    "Linux",
+    "Side Projects/Card Based/BlackJack Card Counter.md",
+    "Neovim/Plugins.md",
+    "Side Projects/Card Based",
+    "Side Projects",
+    "Neovim"
+  ]
+}
