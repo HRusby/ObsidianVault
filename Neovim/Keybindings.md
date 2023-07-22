@@ -1,25 +1,26 @@
-[[Keybindings]]
+#Keybindings
+
 
 ## General Bindings
 |Mode|Binding|Purpose|Category|
 |------|-------|-------|--------|
 |Normal|\<Space\>|Leader||
-|Normal|\<C-h\>|Switch Window Left|[[Navigation]]|
-|Normal|\<C-j\>|Switch Window Down|[[Navigation]]|
-|Normal|\<C-k\>|Switch Window Up|[[Navigation]]|
-|Normal|\<C-l\>|Switch Window Right|[[Navigation]]|
-|Normal\<Leader\>e|Toggle NvimTree Open/Close|[[Navigation]][[NvimTree]]|
-|Normal|\<Leader\>ff|Treesitter Find Files|[[Navigation]][[TreeSitter]]|
-|Normal|\<Leader\>gf|Treesitter Live Grep|[[Navigation]][[TreeSitter]]|
-|Normal|\<Leader\>p|Treesitter Project View|[[Navigation]][[TreeSitter]]|
-|Normal|\<Leader\>kf|Format File|[[NullLs]]|
+|Normal|\<C-h\>|Switch Window Left|#Navigation|
+|Normal|\<C-j\>|Switch Window Down|#Navigation|
+|Normal|\<C-k\>|Switch Window Up|#Navigation|
+|Normal|\<C-l\>|Switch Window Right|#Navigation|
+|Normal|\<Leader\>e|Toggle NvimTree Open/Close|#Navigation#NvimTree|
+|Normal|\<Leader\>ff|Treesitter Find Files|#Navigation#TreeSitter|
+|Normal|\<Leader\>gf|Treesitter Live Grep|#Navigation#TreeSitter|
+|Normal|\<Leader\>p|Treesitter Project View|#Navigation#TreeSitter|
+|Normal|\<Leader\>kf|Format File|#NullLs|
 |Normal|\\|Show Registers||
-|Normal|\<C-Up\>|Resize Window Up|[[Navigation]]|
-|Normal|\<C-Down\>|Resize Window Down|[[Navigation]]|
-|Normal|\<C-Left\>|Resize Window Left|[[Navigation]]|
-|Normal|\<C-Right\>|Resize Window Right|[[Navigation]]|
-|Normal|\<S-l\>|Next Buffer|[Buffers]|
-|Normal|\<S-h\>|Previous Buffer|[Buffers]|
+|Normal|\<C-Up\>|Resize Window Up|#Navigation|
+|Normal|\<C-Down\>|Resize Window Down|#Navigation|
+|Normal|\<C-Left\>|Resize Window Left|#Navigation|
+|Normal|\<C-Right\>|Resize Window Right|#Navigation|
+|Normal|\<S-l\>|Next Buffer|#Buffers|
+|Normal|\<S-h\>|Previous Buffer|#Buffers|
 |Normal|\<A-j\>|Move Line Down||
 |Normal|\<A-k\>|Move Line Up||
 |Insert|jk|Exit Insert Mode||
@@ -93,8 +94,8 @@
 |Normal|\<C-k\>|Show Signature Help||
 |Normal|\<Leader\>rn|Rename Symbol||
 |Normal|\<Leader\>ca|Code Action||
-|Normal|\[d|Go to Previous||
-|Normal|\]d|Go to Next||
+|Normal|\#d|Go to Previous||
+|Normal|\d|Go to Next||
 |Normal|\<Leader\>q|Set Loc List||
 
 ## CMP Bindings
