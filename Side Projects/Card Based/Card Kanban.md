@@ -6,10 +6,9 @@ kanban-plugin: basic
 
 ## Planned
 
-- [ ] Define Card Objects
-- [ ] Display Cards
-- [ ] Shuffle Deck
-- [ ] Deal Cards
+- [ ] Implement Hand Logic
+- [ ] Test Cards
+- [ ] Test Hands
 
 
 ## In Progress
@@ -18,6 +17,12 @@ kanban-plugin: basic
 
 ## Complete
 
+- [ ] Shuffle Deck
+- [ ] Define Card Objects
+- [ ] Display Cards
+- [ ] Deal Cards
+- [ ] Test Dealing Cards
+- [ ] Test Decks
 
 
 
