@@ -118,3 +118,16 @@
 |Normal|l<br/>\<CR\><br/>o|Open File Under Cursor||
 |Normal|h|Close Node||
 |Normal|v|Open in Vertical Split||
+
+## Dap Bindings
+|Mode|Binding|Purpose|Category|
+|----|-------|-------|--------|
+|Normal|\<F5\>|Debug: Continue|#Debug|
+|Normal|\<F10\>|Debug: Step Over|#Debug|
+|Normal|\<F11\>|Debug: Step Into|#Debug|
+|Normal|\<F12\>|Debug: Step Out|#Debug|
+|Normal|\<Leader\>b|Debug: Toggle Breakpoint|#Debug|
+|Normal|\<Leader\>B|Debug: Set Breakpoint|#Debug|
+|Normal|\<Leader\>lp|Debug: Log Point Message|#Debug|
+|Normal|\<Leader\>dr|Debug: Open REPL|#Debug|
+|Normal|\<Leader\>dl|Debug: Run Last|#Debug|
